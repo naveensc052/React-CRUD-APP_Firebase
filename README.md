@@ -1,4 +1,5 @@
-#React CRUD APP with Firebase - Library Management
+#React_CRUD_APP_with_Firebase-Library_Management
+
 This is a simple React application for managing a library of books using Firebase as the backend database. With this application, you can perform basic CRUD (Create, Read, Update, Delete) operations on the book collection in your library. It provides a user-friendly interface for adding, updating, deleting, and listing books.
 
 Features
@@ -25,19 +26,23 @@ To run this application locally, follow these steps:
 Clone this repository to your local machine:
 
 git clone https://github.com/your-username/React-CRUD-APP_Firebase.git
+
 Navigate to the project directory:
 
 cd React-CRUD-APP_Firebase
 Install the dependencies:
 
 npm install
+
 Configure Firebase:
 
 Create a Firebase project on the Firebase Console.
 Copy your Firebase project configuration (found in Project settings) and replace it in the src/firebase/firebase.js file.
 Enable Firebase Authentication (Email/Password) in your Firebase project settings.
+
 Start the development server:
 npm start
+
 Open your browser and access the application at http://localhost:3000.
 
 Usage
