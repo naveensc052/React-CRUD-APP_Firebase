@@ -1,4 +1,4 @@
-#React_CRUD_APP_with_Firebase-Library_Management
+React_CRUD_APP_with_Firebase-Library_Management
 
 This is a simple React application for managing a library of books using Firebase as the backend database. With this application, you can perform basic CRUD (Create, Read, Update, Delete) operations on the book collection in your library. It provides a user-friendly interface for adding, updating, deleting, and listing books.
 
